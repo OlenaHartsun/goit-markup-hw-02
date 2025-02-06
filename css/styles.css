@@ -41,6 +41,10 @@ a {
   color: #2e2f42;
 }
 
+.navigation-menu-f {
+  color: #2e2f42:
+}
+
 .navigation-menu-f:hover,
 .navigation-menu-f:focus {
   color: #404bbf;
@@ -191,4 +195,8 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.studio-s {
+  color: #f4f4fd
 }
